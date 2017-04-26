@@ -1,0 +1,16 @@
+Brayden Roth-White
+Email: brayden.roth-white@wsu.edu
+SID:   011388543
+
+Description: 
+	Asymmetric cryptosystem using public and private keys. This 
+program encrypts/decrypts any ascii text file of any length.
+It starts out by generating a key that is seeding with user input
+then may either encrypt or decrypt with the keys generated.
+
+Files:
+	main.py:          The main python file that runs the key generation, 
+		          encryption and decryption.
+	Encrypt.py:       Encrypts the ascii text in ptext.txt
+	Decrypt.py:       Decrypts the number values in ctext.txt
+	KeyGeneration.py: Generates public and private keys.
